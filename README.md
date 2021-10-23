@@ -33,7 +33,7 @@ This notebook has regression models and predictions of Graduate Admissions.
     - Loading Data and Explore (EDA)
     - Visualization Analysis - Graph Interpreting
     - Prepare the data to Machine Learning Algoritms
-    - Explore diffrent (regression) models
+    - Explore diffirent (regression) models
     - Fine-Tuning models with GirdSearch
     - Conclusions
     
@@ -44,7 +44,7 @@ This notebook has regression models and predictions of Graduate Admissions.
         -regression_eda_ml.ipynb
 
 ### Data Source
-    > [Data](https://www.kaggle.com/mohansacharya/graduate-admissions)
+[Data](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
 ### Possible Further works
     - Testing more Linear Algorithms
@@ -53,6 +53,6 @@ This notebook has regression models and predictions of Graduate Admissions.
     
 
 ### Author
-**___Enes Çavuş___** [Contack](https://www.linkedin.com/in/enes-cavus)
+**___Enes Çavuş___** [Contact](https://www.linkedin.com/in/enes-cavus)
 
    
