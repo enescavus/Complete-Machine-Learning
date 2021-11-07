@@ -1,3 +1,15 @@
+**___Note: This repo is similar to my other [project collection repo](https://github.com/enescavus/Data-Science-Projects) but in this one I will be uploading my algorithm based solutions with various hyperparameters for each model that I trained and deployed.
+
+### Up-Coming Notebooks - Working On 
+    
+    - Decision Trees with hyperparameter tuning - Forests - Bagging(Bootstrap-Aggregation)
+    - Understanding Chi-Square & Cramer's V Test with Random Forest Feature Importance parameter (Visualized)
+    - Clustering with Kmeans- DBSCAN and other optional algorithms may include
+    - PCA ( dimensional reduction ) understanding
+    - More EDA and Advenced Visualizations with seaborn (2D - 3D)
+    ...
+
+
 ## Regression + EDA + ML Notebook w/ Graduate Admission Data 
 
 
