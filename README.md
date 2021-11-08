@@ -16,6 +16,8 @@ data relationships.
 
 And also I compared statistical outputs with a machine learning algorithms feature importance function.
 
+[NOTEBOOK WITH DETAILED EXPLANATIONS](https://github.com/enescavus/Complete-Machine-Learning/blob/master/statistics_chi-squared-cramersV-RF-feature-importance.ipynb)
+
 ---
 
 ### **SavedFigures**
