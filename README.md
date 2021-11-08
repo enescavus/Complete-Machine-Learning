@@ -17,7 +17,7 @@ This notebook has regression models and predictions of Graduate Admissions.
 
 ---
 
-<img  width="800" height="200" src="img/bannerImage.jpg">
+<img  width="800" height="200" src="images/bannerImage.jpg">
 
 ---
 
