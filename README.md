@@ -2,21 +2,30 @@
 
 ### Up-Coming Notebooks - Working On 
     
-    - Decision Trees with hyperparameter tuning - Forests - Bagging(Bootstrap-Aggregation)
-    - [DONE], Understanding Chi-Square & Cramer's V Test with Random Forest Feature Importance parameter (Visualized)
-    - Clustering with Kmeans- DBSCAN and other optional algorithms may include
-    - PCA ( dimensional reduction ) understanding
-    - More EDA and Advenced Visualizations with seaborn (2D - 3D)
-    ...
+- Decision Trees with hyperparameter tuning - Forests - Bagging(Bootstrap-Aggregation)
+- **[DONE]**, Understanding Chi-Square & Cramer's V Test with Random Forest Feature Importance parameter (Visualized)
+- Clustering with Kmeans- DBSCAN and other optional algorithms may include
+- PCA ( dimensional reduction ) understanding
+- **[DONE]**, More EDA and Advenced Visualizations with seaborn/matplotlib (2D - 3D)
 
+---
+
+<a name="top"></a>
+###CONTENT
+
+- [Applied Statistics (Chi-Squared & Cramer's V) + EDA + ML Notebook w/ Income Data](#1)
+- [2D 3D Visualizations - with Differnet Plot Types](#2)
+- [Regression + EDA + ML Notebook w/ Graduate Admission Data](#3)
+
+---
+
+<a name="1"></a>
 ## Applied Statistics (Chi-Squared & Cramer's V) + EDA + ML Notebook w/ Income Data 
 
 This notebook includes statistical analysis on categorical values. It is created for understanding categorical to categorical
 data relationships. 
 
 And also I compared statistical outputs with a machine learning algorithms feature importance function.
-
-[NOTEBOOK WITH DETAILED EXPLANATIONS](https://github.com/enescavus/Complete-Machine-Learning/blob/master/statistics_chi-squared-cramersV-RF-feature-importance.ipynb)
 
 ---
 
@@ -39,7 +48,24 @@ And also I compared statistical outputs with a machine learning algorithms featu
 ![cramer_v_vs_random_forest_feature_importance](figures/cramer_v_vs_random_forest_feature_importance.png)
 
 ---
+<a name="2"></a>
+[Back to Top](#top)
+## 2D 3D Visualizations - with Differnet Plot Types
 
+This notebook includes general EDA and different plottling approaches the same dataset. Check out the original notebook to see more detailed explanations and codes.
+
+> Standart Scatter Plot 3D visualized
+
+![scatter_3d](figures/scatter_ss.png)
+
+> Standart Scatter Plot 3D visualized
+
+![trisurf](figures/trisurf_ss.png)
+
+---
+
+<a name="3"></a>
+[Back to Top](#top)
 ## Regression + EDA + ML Notebook w/ Graduate Admission Data 
 
 
